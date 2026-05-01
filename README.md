@@ -1,10 +1,10 @@
-# 📈 Indian Large Cap Portfolio Analyzer
+#  Indian Large Cap Portfolio Analyzer
 
 A Python-based portfolio analytics tool that pulls **real market data** from NSE-listed stocks and generates a comprehensive risk and performance report — benchmarked against the **Nifty 50**.
 
 ---
 
-## 🔍 What It Does
+##  What It Does
 
 - Downloads historical price data for Indian large cap stocks using Yahoo Finance
 - Calculates key risk-adjusted performance metrics for each stock
@@ -13,7 +13,7 @@ A Python-based portfolio analytics tool that pulls **real market data** from NSE
 
 ---
 
-## 📊 Metrics Calculated
+##  Metrics Calculated
 
 | Metric | Description |
 |---|---|
@@ -24,7 +24,7 @@ A Python-based portfolio analytics tool that pulls **real market data** from NSE
 
 ---
 
-## 📉 Charts Generated
+##  Charts Generated
 
 1. **Cumulative Returns vs Nifty 50** — Shows growth of ₹1 invested in January 2020 across all stocks, benchmarked against the index
 2. **Correlation Heatmap** — Shows how stocks move relative to each other, useful for understanding diversification
@@ -32,7 +32,7 @@ A Python-based portfolio analytics tool that pulls **real market data** from NSE
 
 ---
 
-## 🏦 Portfolio
+##  Portfolio
 
 | Stock | Ticker |
 |---|---|
@@ -47,7 +47,7 @@ A Python-based portfolio analytics tool that pulls **real market data** from NSE
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python** — core programming language
 - **yfinance** — real-time and historical market data from Yahoo Finance
@@ -58,7 +58,7 @@ A Python-based portfolio analytics tool that pulls **real market data** from NSE
 
 ---
 
-## 🚀 How To Run
+##  How To Run
 
 **1. Clone the repository**
 ```
@@ -88,7 +88,7 @@ python portfolio.py
 
 ---
 
-## 👤 Author
+##  Author
 
 **Goutam** — MBA in Finance | Aspiring Asset Management Professional
 
